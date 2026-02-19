@@ -1,0 +1,63 @@
+{
+    "1392588592068427808": {
+        "cooldown": 1,
+        "confess_enabled": true,
+        "opted_out": [
+            1211075046001475626,
+            752796182983737356
+        ]
+    },
+    "1431801596550840383": {
+        "cooldown": 1,
+        "confess_enabled": true,
+        "opted_out": [
+            1028614937246969876,
+            691790884378771507,
+            1180334302874042469
+        ]
+    },
+    "1442279416259678220": {
+        "cooldown": 1,
+        "confess_enabled": true,
+        "opted_out": []
+    },
+    "1420559594438000702": {
+        "cooldown": 1,
+        "confess_enabled": true,
+        "opted_out": []
+    },
+    "1261542617389334610": {
+        "cooldown": 1,
+        "confess_enabled": true,
+        "opted_out": [
+            691790884378771507,
+            1028614937246969876,
+            1180334302874042469
+        ]
+    },
+    "1395476792633987275": {
+        "cooldown": 1,
+        "confess_enabled": true,
+        "opted_out": []
+    },
+    "1136641496498577529": {
+        "cooldown": 1,
+        "confess_enabled": true,
+        "opted_out": []
+    },
+    "1464254184676397058": {
+        "cooldown": 1,
+        "confess_enabled": true,
+        "opted_out": []
+    },
+    "1449896203843145968": {
+        "cooldown": 1,
+        "confess_enabled": true,
+        "opted_out": [
+            1044999606871801919,
+            1416344575605473362,
+            1461302848183730200,
+            1411430771071258695
+        ]
+    }
+}

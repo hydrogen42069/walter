@@ -1,0 +1,1 @@
+if your trying to use pip install something for wlater you must put /home/elly/botfolder/venv/bin/activate ont the terminal first
